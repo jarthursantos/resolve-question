@@ -1,0 +1,7 @@
+PING google.com (172.217.28.142) 56(84) bytes of data.
+64 bytes from gru14s16-in-f14.1e100.net (172.217.28.142): icmp_seq=1 ttl=247 time=54.8 ms
+64 bytes from gru14s16-in-f14.1e100.net (172.217.28.142): icmp_seq=2 ttl=247 time=54.9 ms
+
+--- google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 54.766/54.841/54.916/0.075 ms
